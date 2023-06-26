@@ -1,4 +1,4 @@
-# Praneeth Rangarajan
+<!--# Praneeth Rangarajan
 
 Student at Alpharetta High School, here's my [resume]()
 
@@ -17,3 +17,4 @@ Member of:
 ## Skills
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,html,java,js,nodejs,py,ts)](https://skillicons.dev)
+-->
